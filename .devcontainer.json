@@ -14,6 +14,6 @@
         "label": "vite"
       }
     },
-    "postCreateCommand": "pipx install git+https://github.com/joe-p/algokit-cli@codespaces",
+    "postCreateCommand": "pipx install algokit",
     "postStartCommand": "algokit localnet start"
   }
